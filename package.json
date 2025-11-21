@@ -1,16 +1,22 @@
 {
   "name": "fp-backend-yourname",
   "version": "1.0.0",
-  "description": "Simple Express app for FP submission",
+  "description": "A visually enhanced Express server for Final Project submission",
   "main": "index.js",
+
   "scripts": {
     "start": "node index.js",
     "dev": "node index.js"
   },
+
   "engines": {
     "node": ">=16"
   },
+
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+
+  "author": "Precious Grace Abion",
+  "license": "MIT"
 }
