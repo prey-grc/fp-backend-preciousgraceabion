@@ -35,7 +35,7 @@ app.get('/', (req, res) => {
 app.get('/api/info', (req, res) => {
   res.json({
     name: "Precious Grace Abion",
-    class_section: "BA4105",
+    class_section: "BA 4102",
     quote: "The only way to do great work is to love what you do. — Steve Jobs"
   });
 });
