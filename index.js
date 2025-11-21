@@ -20,7 +20,7 @@ app.get('/', (req, res) => {
       </head>
       <body>
         <div class="card">
-          <h1>Personal Pr</h1>
+          <h1>Personal Profile</h1>
           <p><strong>Full name:</strong> Precious Grace Abion</p>
           <p><strong>Class section:</strong> BA 4102</p>
           <p class="quote">“The only way to do great work is to love what you do.” — Steve Jobs</p>
