@@ -22,10 +22,9 @@ app.get('/', (req, res) => {
         <div class="card">
           <h1>FP Submission</h1>
           <p><strong>Full name:</strong> Precious Grace Abion</p>
-          <p><strong>Class section:</strong> BA4105 (example) </p>
+          <p><strong>Class section:</strong> BA4105</p>
           <p class="quote">“The only way to do great work is to love what you do.” — Steve Jobs</p>
           <hr/>
-          <p>Deployed on Render: <em>replace-with-your-render-url-after-deploy</em></p>
         </div>
       </body>
     </html>
