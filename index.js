@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
     <html>
       <head>
         <meta charset="utf-8"/>
-        <title>FP - Backend</title>
+        <title>Personal Profile</title>
         <style>
           body { font-family: Arial, sans-serif; padding: 2rem; background:#f7f7f7; }
           .card { background:white; padding:2rem; border-radius:8px; box-shadow:0 2px 10px rgba(0,0,0,.08); max-width:700px; margin:auto; }
